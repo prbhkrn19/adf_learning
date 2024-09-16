@@ -1,0 +1,9 @@
+{
+	"name": "adflearningnew-adf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3c3d20b4-a332-4317-aca8-45de59a0ecbc",
+		"tenantId": "bb69a2c8-a086-4175-8380-452a3800b2f4"
+	}
+}
