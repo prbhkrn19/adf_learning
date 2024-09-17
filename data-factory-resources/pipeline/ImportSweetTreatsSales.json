@@ -37,13 +37,6 @@
 						"type": "TabularTranslator",
 						"mappings": [
 							{
-								"sink": {
-									"name": "RowId",
-									"type": "Int32",
-									"physicalType": "int"
-								}
-							},
-							{
 								"source": {
 									"name": "Retailer",
 									"type": "String",
@@ -75,13 +68,6 @@
 								},
 								"sink": {
 									"name": "Product",
-									"type": "String",
-									"physicalType": "nvarchar"
-								}
-							},
-							{
-								"sink": {
-									"name": "ManufacturerProductCode",
 									"type": "String",
 									"physicalType": "nvarchar"
 								}
