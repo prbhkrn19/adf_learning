@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "ImportSweetTreatsSales",
+				"name": "Import sales data",
 				"description": "Importing sweet treat sales to sql server",
 				"type": "Copy",
 				"dependsOn": [],
